@@ -1,0 +1,25 @@
+# --- VS Code ---
+.vscode/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+.env
+
+# --- macOS ---
+.DS_Store
+
+# --- Docker ---
+*.log
+
+# --- Terraform ---
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# --- Misc ---
+*.bak
+*.swp
